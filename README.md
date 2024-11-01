@@ -1,3 +1,12 @@
+# Gambar Anime List
+![Anime List](<src/asset/gambar/tugas api 1.jpg>)
+
+# Gambar Anime Detail
+![Anime Detail](<src/asset/gambar/Tugas api 2.jpg>)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
